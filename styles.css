@@ -1,0 +1,14 @@
+.red {
+    color: red;
+}
+
+body {
+    background-image: url(./images/arnold-francisca-f77Bh3inUpE-unsplash\ \(1\).jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+    height: 1000px;
+    
+}
