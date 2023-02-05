@@ -5,15 +5,14 @@
 
 .brand {
     color: #B2B2B2;
-    font-size: 25px;
+    font-size: 35px;
 }
 
 .highlight {
     color: #00ABB3;
 }
 
-body {
-    height: 1000px;
+.nav-color {
     background-color: #232931;
 }
 
@@ -32,4 +31,9 @@ body {
     display: inline;
     color: #B2B2B2;
     font-size: medium;
+}
+
+.main-color {
+    height: 800px;
+    background-color: #232931;
 }
